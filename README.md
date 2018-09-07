@@ -1,4 +1,5 @@
 # Proof of Concept for DLCM Website
+The site is being developed using Angular 6 and Typescript.
 
 ## Running the application
 
