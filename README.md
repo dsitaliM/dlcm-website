@@ -1,6 +1,6 @@
 # Proof of Concept for DLCM Website
-Tech stack
-| ------------- |:-------------:|
+####Tech stack
+
 | Angular       | v6.1.3         |
 | Typescript    | v3.0.1         | 
 | Bulma Css     | v0.7.1         |
