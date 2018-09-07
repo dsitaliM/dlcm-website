@@ -1,6 +1,6 @@
-# Proof of Concept for DLCM Website\
+# Proof of Concept for DLCM Website
 
-Tech Stack\
+Tech Stack
 
 |               |  Version      |
 | ------------- | ------------- |
